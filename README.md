@@ -4,13 +4,13 @@ A personal repo with notebook tutorials about anything and everything that is R 
 
 For simplicity, in all the notebooks I will be using the same dataset (or datasets). 
 
-Briefly, the main dataset  that I will use comes from a simple Reaction Times (RTs) task, were 24 participants were asked to report whether the stimulus presented was **living** or **non-living** by a key press.
+Briefly, the main dataset  that I will use comes from a simple Reaction Times (RTs) task, in which 24 participants were asked to report whether the stimulus presented was **living** or **non-living**, by a key press.
 
 ### Some useful information about this dataset:
 * Particpants: 24 (12 males, 12 females)
 *  Stimuli: 48 total 
 *  Classes: 2 (living vs non-living)
-*  Categories: 4 (scenes, obejcts, people, animals)
+*  Categories: 4 (scenes, objects, people, animals)
 *  Total trials: 960
 *  Total blocks: 8
 *  Numebr of repetitions per stimulus: 20
